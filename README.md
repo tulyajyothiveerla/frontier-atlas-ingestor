@@ -5,7 +5,7 @@ A production-grade intelligence ingestion pipeline designed for the global AI ec
 ---
 
 ## 📊 Live Deliverable: Google Sheet Dataset
-(https://docs.google.com/spreadsheets/d/1P4wYpnsUuXrLfGTcXi9TOUi5zjxYjjiOrJKQJPnVksg/edit?usp=sharing)
+https://docs.google.com/spreadsheets/d/1P4wYpnsUuXrLfGTcXi9TOUi5zjxYjjiOrJKQJPnVksg/edit?usp=sharing
 
 ### Dataset Tabs Included:
 1. **`Startups`**: 1,000 AI organization entities with validated metadata and source references.
